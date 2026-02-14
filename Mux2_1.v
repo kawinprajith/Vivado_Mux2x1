@@ -1,5 +1,4 @@
-//change the 
-
+//Design Source code Verilog
 `timescale 1ns / 1ps
 
 module Mux2_1(
